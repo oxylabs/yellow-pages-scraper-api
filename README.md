@@ -40,7 +40,7 @@ response = requests.request(
 pprint(response.json())
 ```
 
-For me details about other parameters and functionalities, head to the
+For more details about other parameters and functionalities, head to the
 [<u>documentation</u>](https://developers.oxylabs.io/scraper-apis/web-scraper-api).
 
 ### Output sample
